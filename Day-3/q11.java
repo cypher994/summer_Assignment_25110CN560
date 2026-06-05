@@ -16,6 +16,6 @@ public class q11 {
 
         System.out.println(a);
 
-        sc.close();
+        
     }
 }

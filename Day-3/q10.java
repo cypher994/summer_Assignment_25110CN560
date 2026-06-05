@@ -27,6 +27,6 @@ public class q10 {
         }
         System.out.println();
 
-        sc.close();
+        
     }
 }

@@ -26,6 +26,6 @@ public class q9 {
             System.out.println("Not Prime");
         }
 
-        sc.close();
+      
     }
 }
